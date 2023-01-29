@@ -10,12 +10,12 @@ Specific topics covered include:
 
  - Public key and symmetric key based cryptography 
  - Access control models
-   Network security policies 
-   Authentication protocols Secure protocol
-   standards Public Key Infrastructure and its development trends
-   Virtual Private Network and its restrictions 
-   Attack graphs and attack
-   trees SDN/NFV based Security Solutions 
-   Cloud network security 
-   ML and  AI for computer network security 
-   Moving target defense in computer networks
+ - Network security policies 
+ - Authentication protocols Secure protocol
+ - standards Public Key Infrastructure and its development trends
+ - Virtual Private Network and its restrictions 
+ - Attack graphs and attack trees 
+ - SDN/NFV based Security Solutions 
+ - Cloud network security 
+ - ML and  AI for computer network security 
+ - Moving target defense in computer networks
