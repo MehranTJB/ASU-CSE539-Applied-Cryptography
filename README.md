@@ -1,21 +1,16 @@
 ## ASU-CSE539-Applied-Cryptography
-Focusing on the areas of applied cryptography, system security, and the principles and practices
-of network security, this course explores the necessary tools, techniques, and concepts of
-network security for modern computer networks. The course’s coverage of advanced network
-security includes both cutting-edge technologies and research topics, primarily at the MAC layer
-and above.
-The course not only provides students with exposure to burgeoning areas of network security but also hands-on experience using the tools essential for computer network and cybersecurity today and in the future.
-
+Cryptography provides the underlying security methods for the web and many other computer
+applications. This course covers the design usage of cryptographic protocols for online and
+offline computing applications. Assuring the quality, validity and privacy of information is one of
+the key applications of Cryptography. Applications of cryptography range from signatures and
+certificates to trustless multiparty computations.
 Specific topics covered include:
-
- - Public key and symmetric key based cryptography 
- - Access control models
- - Network security policies 
- - Authentication protocols Secure protocol
- - standards Public Key Infrastructure and its development trends
- - Virtual Private Network and its restrictions 
- - Attack graphs and attack trees 
- - SDN/NFV based Security Solutions 
- - Cloud network security 
- - ML and  AI for computer network security 
- - Moving target defense in computer networks
+- Large Numbers, Random Numbers, Hash Functions and Number Theory
+- Encryption Methods and Common Ciphers
+- Password Storage and Password Cracking
+- Authentication, Key Exchange and Man in the Middle (MITM) Attacks
+- Secure messaging, Kerberos and Secure Sockets Layer (SSL) or Transport Level
+Security (TLS)
+- RSA and why it works
+- Advanced Cryptographic Protocols
+- Anonymity, money and secure election algorithms
